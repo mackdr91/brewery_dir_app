@@ -1,0 +1,604 @@
+[
+    {
+      "id": 1,
+      "brewery_id": 1,
+      "event_name": "Brewery Tour",
+      "description": "Guided tour of the brewery with beer tastings.",
+      "date": "2024-09-20",
+      "time": "2:00 PM"
+    },
+    {
+      "id": 2,
+      "brewery_id": 1,
+      "event_name": "Live Music Night",
+      "description": "Enjoy live music with your favorite beers.",
+      "date": "2024-09-25",
+      "time": "6:00 PM"
+    },
+    {
+      "id": 3,
+      "brewery_id": 1,
+      "event_name": "Oktoberfest Celebration",
+      "description": "Celebrate Oktoberfest with special brews and food.",
+      "date": "2024-10-01",
+      "time": "12:00 PM"
+    },
+    {
+      "id": 4,
+      "brewery_id": 1,
+      "event_name": "Trivia Night",
+      "description": "Test your knowledge and win prizes.",
+      "date": "2024-10-05",
+      "time": "7:00 PM"
+    },
+    {
+      "id": 5,
+      "brewery_id": 1,
+      "event_name": "Craft Beer Workshop",
+      "description": "Learn how to brew your own craft beer.",
+      "date": "2024-10-10",
+      "time": "1:00 PM"
+    },
+    {
+      "id": 6,
+      "brewery_id": 2,
+      "event_name": "Mountain Hike & Beer",
+      "description": "Join us for a hike followed by beer tastings.",
+      "date": "2024-09-22",
+      "time": "9:00 AM"
+    },
+    {
+      "id": 7,
+      "brewery_id": 2,
+      "event_name": "Beer & Yoga",
+      "description": "Relax with yoga and a pint.",
+      "date": "2024-09-27",
+      "time": "10:00 AM"
+    },
+    {
+      "id": 8,
+      "brewery_id": 2,
+      "event_name": "Open Mic Night",
+      "description": "Show off your talent at our open mic event.",
+      "date": "2024-10-03",
+      "time": "7:00 PM"
+    },
+    {
+      "id": 9,
+      "brewery_id": 2,
+      "event_name": "Pumpkin Beer Tasting",
+      "description": "Taste seasonal pumpkin beers.",
+      "date": "2024-10-15",
+      "time": "3:00 PM"
+    },
+    {
+      "id": 10,
+      "brewery_id": 2,
+      "event_name": "Beer & Cheese Pairing",
+      "description": "Explore the perfect pairing of beers and cheeses.",
+      "date": "2024-10-20",
+      "time": "4:00 PM"
+    },
+    {
+      "id": 11,
+      "brewery_id": 3,
+      "event_name": "River Cleanup & Brew",
+      "description": "Join us for a river cleanup followed by beers.",
+      "date": "2024-09-21",
+      "time": "8:00 AM"
+    },
+    {
+      "id": 12,
+      "brewery_id": 3,
+      "event_name": "Beer Pong Tournament",
+      "description": "Compete in a fun beer pong tournament.",
+      "date": "2024-09-30",
+      "time": "5:00 PM"
+    },
+    {
+      "id": 13,
+      "brewery_id": 3,
+      "event_name": "Brewery Bingo",
+      "description": "Win prizes in our brewery bingo night.",
+      "date": "2024-10-07",
+      "time": "6:00 PM"
+    },
+    {
+      "id": 14,
+      "brewery_id": 3,
+      "event_name": "Seasonal Beer Release",
+      "description": "Try our newest seasonal beer.",
+      "date": "2024-10-12",
+      "time": "3:00 PM"
+    },
+    {
+      "id": 15,
+      "brewery_id": 3,
+      "event_name": "Craft Beer & BBQ",
+      "description": "Enjoy a BBQ with craft beer pairings.",
+      "date": "2024-10-25",
+      "time": "12:00 PM"
+    },
+    {
+      "id": 16,
+      "brewery_id": 4,
+      "event_name": "Valley Sunset Festival",
+      "description": "Enjoy the sunset with live music and beer.",
+      "date": "2024-09-28",
+      "time": "5:00 PM"
+    },
+    {
+      "id": 17,
+      "brewery_id": 4,
+      "event_name": "Golden Ale Release",
+      "description": "Celebrate the release of our new golden ale.",
+      "date": "2024-10-02",
+      "time": "6:00 PM"
+    },
+    {
+      "id": 18,
+      "brewery_id": 4,
+      "event_name": "Food Truck Rally",
+      "description": "Sample local food trucks with your favorite beers.",
+      "date": "2024-10-10",
+      "time": "11:00 AM"
+    },
+    {
+      "id": 19,
+      "brewery_id": 4,
+      "event_name": "Fall Harvest Party",
+      "description": "Celebrate the fall season with beer and food.",
+      "date": "2024-10-18",
+      "time": "4:00 PM"
+    },
+    {
+      "id": 20,
+      "brewery_id": 4,
+      "event_name": "Beer & Brunch",
+      "description": "Enjoy a special brunch menu paired with beers.",
+      "date": "2024-10-24",
+      "time": "10:00 AM"
+    },
+    {
+      "id": 21,
+      "brewery_id": 5,
+      "event_name": "Dreamers' Night Out",
+      "description": "A special evening event for dreamers.",
+      "date": "2024-09-23",
+      "time": "7:00 PM"
+    },
+    {
+      "id": 22,
+      "brewery_id": 5,
+      "event_name": "Special IPA Release",
+      "description": "Try our limited edition IPA.",
+      "date": "2024-09-29",
+      "time": "5:00 PM"
+    },
+    {
+      "id": 23,
+      "brewery_id": 5,
+      "event_name": "Beer & Paint Night",
+      "description": "Unleash your creativity with beer and painting.",
+      "date": "2024-10-06",
+      "time": "6:00 PM"
+    },
+    {
+      "id": 24,
+      "brewery_id": 5,
+      "event_name": "Halloween Bash",
+      "description": "A spooky night of beer and fun.",
+      "date": "2024-10-31",
+      "time": "7:00 PM"
+    },
+    {
+      "id": 25,
+      "brewery_id": 5,
+      "event_name": "Beer Mile Run",
+      "description": "Run a mile and enjoy beers along the way.",
+      "date": "2024-10-15",
+      "time": "8:00 AM"
+    },
+    {
+      "id": 26,
+      "brewery_id": 6,
+      "event_name": "Artisan Fair",
+      "description": "Explore local crafts and enjoy our beers.",
+      "date": "2024-09-24",
+      "time": "11:00 AM"
+    },
+    {
+      "id": 27,
+      "brewery_id": 6,
+      "event_name": "Porter Night",
+      "description": "A special night dedicated to porters.",
+      "date": "2024-10-04",
+      "time": "5:00 PM"
+    },
+    {
+      "id": 28,
+      "brewery_id": 6,
+      "event_name": "Beer & Poetry Slam",
+      "description": "Sip beer and listen to live poetry.",
+      "date": "2024-10-08",
+      "time": "7:00 PM"
+    },
+    {
+      "id": 29,
+      "brewery_id": 6,
+      "event_name": "Brown Ale Bonanza",
+      "description": "Celebrate our new brown ale with tastings.",
+      "date": "2024-10-14",
+      "time": "6:00 PM"
+    },
+    {
+      "id": 30,
+      "brewery_id": 6,
+      "event_name": "Holiday Market",
+      "description": "A festive market with beer and holiday goods.",
+      "date": "2024-12-01",
+      "time": "1:00 PM"
+    },
+    {
+      "id": 31,
+      "brewery_id": 7,
+      "event_name": "Beach Cleanup & Brews",
+      "description": "Join us for a beach cleanup followed by beers.",
+      "date": "2024-09-26",
+      "time": "9:00 AM"
+    },
+    {
+      "id": 32,
+      "brewery_id": 7,
+      "event_name": "Sunset Yoga & Beer",
+      "description": "Relax with yoga and a cold pint.",
+      "date": "2024-09-28",
+      "time": "6:00 PM"
+    },
+    {
+      "id": 33,
+      "brewery_id": 7,
+      "event_name": "Oktoberfest by the Sea",
+      "description": "A seaside celebration of Oktoberfest.",
+      "date": "2024-10-09",
+      "time": "12:00 PM"
+    },
+    {
+      "id": 34,
+      "brewery_id": 7,
+      "event_name": "Seaside BBQ & Beer",
+      "description": "Enjoy a BBQ by the sea with beers.",
+      "date": "2024-10-16",
+      "time": "4:00 PM"
+    },
+    {
+      "id": 35,
+      "brewery_id": 7,
+      "event_name": "Beach Bonfire & Brews",
+      "description": "Join us for a beach bonfire with craft beers.",
+      "date": "2024-10-22",
+      "time": "8:00 PM"
+    },
+    {
+        "id": 36,
+        "brewery_id": 8,
+        "event_name": "Bridge Brewing Bash",
+        "description": "Celebrate the history of our town with craft beers.",
+        "date": "2024-09-30",
+        "time": "5:00 PM"
+      },
+      {
+        "id": 37,
+        "brewery_id": 8,
+        "event_name": "Hefeweizen Harvest Festival",
+        "description": "Enjoy the flavors of the season with hefeweizens.",
+        "date": "2024-10-02",
+        "time": "3:00 PM"
+      },
+      {
+        "id": 38,
+        "brewery_id": 8,
+        "event_name": "Live Jazz & Beer",
+        "description": "Relax with live jazz music and beer pairings.",
+        "date": "2024-10-07",
+        "time": "6:00 PM"
+      },
+      {
+        "id": 39,
+        "brewery_id": 8,
+        "event_name": "Pale Ale Night",
+        "description": "Taste a variety of pale ales from our brewery.",
+        "date": "2024-10-14",
+        "time": "7:00 PM"
+      },
+      {
+        "id": 40,
+        "brewery_id": 8,
+        "event_name": "Imperial Stout Celebration",
+        "description": "Celebrate the release of our Imperial Stout.",
+        "date": "2024-10-20",
+        "time": "8:00 PM"
+      },
+      {
+        "id": 41,
+        "brewery_id": 9,
+        "event_name": "Treehouse Tasting Tour",
+        "description": "Take a guided tour and taste our newest brews.",
+        "date": "2024-09-25",
+        "time": "1:00 PM"
+      },
+      {
+        "id": 42,
+        "brewery_id": 9,
+        "event_name": "Forest Festival",
+        "description": "Enjoy the outdoors with great beers and food.",
+        "date": "2024-10-01",
+        "time": "4:00 PM"
+      },
+      {
+        "id": 43,
+        "brewery_id": 9,
+        "event_name": "Saison Celebration",
+        "description": "Celebrate the season with our finest saison beers.",
+        "date": "2024-10-05",
+        "time": "2:00 PM"
+      },
+      {
+        "id": 44,
+        "brewery_id": 9,
+        "event_name": "Cider & Food Pairing",
+        "description": "Pair ciders with dishes from local chefs.",
+        "date": "2024-10-12",
+        "time": "6:00 PM"
+      },
+      {
+        "id": 45,
+        "brewery_id": 9,
+        "event_name": "Holloween Party",
+        "description": "Join us for a spooky Halloween celebration.",
+        "date": "2024-10-31",
+        "time": "7:00 PM"
+      },
+      {
+        "id": 46,
+        "brewery_id": 10,
+        "event_name": "Ironclad Oktoberfest",
+        "description": "Celebrate Oktoberfest with traditional brews.",
+        "date": "2024-10-03",
+        "time": "12:00 PM"
+      },
+      {
+        "id": 47,
+        "brewery_id": 10,
+        "event_name": "Red Ale Release Party",
+        "description": "Join us for the launch of our new Red Ale.",
+        "date": "2024-10-09",
+        "time": "4:00 PM"
+      },
+      {
+        "id": 48,
+        "brewery_id": 10,
+        "event_name": "Porter & Pastries",
+        "description": "Enjoy porters paired with local pastries.",
+        "date": "2024-10-15",
+        "time": "11:00 AM"
+      },
+      {
+        "id": 49,
+        "brewery_id": 10,
+        "event_name": "Stout Tasting",
+        "description": "Sample our lineup of stouts, perfect for fall.",
+        "date": "2024-10-19",
+        "time": "5:00 PM"
+      },
+      {
+        "id": 50,
+        "brewery_id": 10,
+        "event_name": "Brewery BBQ",
+        "description": "A backyard BBQ with our favorite brews.",
+        "date": "2024-10-28",
+        "time": "1:00 PM"
+      },
+      {
+        "id": 51,
+        "brewery_id": 11,
+        "event_name": "Moonlit Movie Night",
+        "description": "Watch a movie under the stars with craft beer.",
+        "date": "2024-09-26",
+        "time": "7:00 PM"
+      },
+      {
+        "id": 52,
+        "brewery_id": 11,
+        "event_name": "Full Moon Party",
+        "description": "Celebrate the full moon with moonlit brews.",
+        "date": "2024-10-04",
+        "time": "8:00 PM"
+      },
+      {
+        "id": 53,
+        "brewery_id": 11,
+        "event_name": "Live DJ & Brews",
+        "description": "Enjoy live DJ sets and craft beer.",
+        "date": "2024-10-10",
+        "time": "9:00 PM"
+      },
+      {
+        "id": 54,
+        "brewery_id": 11,
+        "event_name": "Hefeweizen Heaven",
+        "description": "Explore a variety of hefeweizens with our brewers.",
+        "date": "2024-10-17",
+        "time": "4:00 PM"
+      },
+      {
+        "id": 55,
+        "brewery_id": 11,
+        "event_name": "Blonde Ale Bonanza",
+        "description": "A night dedicated to our finest blonde ales.",
+        "date": "2024-10-21",
+        "time": "6:00 PM"
+      },
+      {
+        "id": 56,
+        "brewery_id": 12,
+        "event_name": "Steel City Beer Fest",
+        "description": "A celebration of local beers from around the city.",
+        "date": "2024-10-06",
+        "time": "12:00 PM"
+      },
+      {
+        "id": 57,
+        "brewery_id": 12,
+        "event_name": "Beer & BBQ Night",
+        "description": "Pair beers with delicious BBQ dishes.",
+        "date": "2024-10-11",
+        "time": "5:00 PM"
+      },
+      {
+        "id": 58,
+        "brewery_id": 12,
+        "event_name": "Imperial IPA Night",
+        "description": "Sample a range of imperial IPAs.",
+        "date": "2024-10-18",
+        "time": "6:00 PM"
+      },
+      {
+        "id": 59,
+        "brewery_id": 12,
+        "event_name": "Steel City Oktoberfest",
+        "description": "Our annual Oktoberfest celebration.",
+        "date": "2024-10-25",
+        "time": "2:00 PM"
+      },
+      {
+        "id": 60,
+        "brewery_id": 12,
+        "event_name": "Craft Beer & Cheese Pairing",
+        "description": "Explore the perfect pairings of craft beers and cheeses.",
+        "date": "2024-10-29",
+        "time": "4:00 PM"
+      },
+      {
+        "id": 61,
+        "brewery_id": 13,
+        "event_name": "Canyon River Campout",
+        "description": "Camp out and enjoy beer by the river.",
+        "date": "2024-09-28",
+        "time": "8:00 PM"
+      },
+      {
+        "id": 62,
+        "brewery_id": 13,
+        "event_name": "Seasonal Ale Tasting",
+        "description": "Sample our latest seasonal ales.",
+        "date": "2024-10-03",
+        "time": "6:00 PM"
+      },
+      {
+        "id": 63,
+        "brewery_id": 13,
+        "event_name": "River Bend BBQ",
+        "description": "A riverside BBQ with cold beers.",
+        "date": "2024-10-09",
+        "time": "1:00 PM"
+      },
+      {
+        "id": 64,
+        "brewery_id": 13,
+        "event_name": "Pumpkin Ale Festival",
+        "description": "Celebrate fall with our pumpkin ales.",
+        "date": "2024-10-14",
+        "time": "3:00 PM"
+      },
+      {
+        "id": 65,
+        "brewery_id": 13,
+        "event_name": "Canyon River Oktoberfest",
+        "description": "Join us for our annual Oktoberfest celebration.",
+        "date": "2024-10-21",
+        "time": "12:00 PM"
+      },
+      {
+        "id": 66,
+        "brewery_id": 14,
+        "event_name": "Forge Fest",
+        "description": "A weekend festival of craft beers and food trucks.",
+        "date": "2024-09-29",
+        "time": "12:00 PM"
+      },
+      {
+        "id": 67,
+        "brewery_id": 14,
+        "event_name": "Blonde Ale Release",
+        "description": "Celebrate the release of our new blonde ale.",
+        "date": "2024-10-07",
+        "time": "4:00 PM"
+      },
+      {
+        "id": 68,
+        "brewery_id": 14,
+        "event_name": "Forge & Friends Night",
+        "description": "Bring friends and enjoy special brews.",
+        "date": "2024-10-13",
+        "time": "6:00 PM"
+      },
+      {
+        "id": 69,
+        "brewery_id": 14,
+        "event_name": "Beer & Board Games",
+        "description": "Enjoy classic board games with craft beers.",
+        "date": "2024-10-20",
+        "time": "3:00 PM"
+      },
+      {
+        "id": 70,
+        "brewery_id": 14,
+        "event_name": "Valley Oktoberfest",
+        "description": "Celebrate Oktoberfest with traditional beer and food.",
+        "date": "2024-10-28",
+        "time": "2:00 PM"
+      },
+      {
+        "id": 71,
+        "brewery_id": 15,
+        "event_name": "Summit Oktoberfest",
+        "description": "Celebrate Oktoberfest at the Summit!",
+        "date": "2024-10-05",
+        "time": "12:00 PM"
+      },
+      {
+        "id": 72,
+        "brewery_id": 15,
+        "event_name": "Barleywine Tasting",
+        "description": "Sample our latest barleywine releases.",
+        "date": "2024-10-10",
+        "time": "5:00 PM"
+      },
+      {
+        "id": 73,
+        "brewery_id": 15,
+        "event_name": "Summit Halloween Party",
+        "description": "Celebrate Halloween with us at the Summit.",
+        "date": "2024-10-31",
+        "time": "8:00 PM"
+      },
+      {
+        "id": 74,
+        "brewery_id": 15,
+        "event_name": "Summit Fall Beer Fest",
+        "description": "Celebrate fall with our seasonal beer lineup.",
+        "date": "2024-11-03",
+        "time": "1:00 PM"
+      },
+      {
+        "id": 75,
+        "brewery_id": 15,
+        "event_name": "Holiday Ale Preview",
+        "description": "Be the first to try our holiday ales.",
+        "date": "2024-12-01",
+        "time": "3:00 PM"
+      }
+      
+    ]
+

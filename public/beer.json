@@ -1,0 +1,227 @@
+[
+    {
+      "id": 1,
+      "name": "Sunrise IPA",
+      "brewery_id": 1,
+      "type": "IPA",
+      "alcohol_content": "6.5%",
+      "availability": "Year-round",
+      "description": "A bright, citrus-forward IPA with a well-balanced bitterness and a refreshing finish."
+    },
+    {
+      "id": 2,
+      "name": "Mountain Stout",
+      "brewery_id": 2,
+      "type": "Stout",
+      "alcohol_content": "7.2%",
+      "availability": "Seasonal",
+      "description": "A rich and creamy stout with notes of roasted coffee and dark chocolate."
+    },
+    {
+      "id": 3,
+      "name": "Riverbend Kolsch",
+      "brewery_id": 3,
+      "type": "Kolsch",
+      "alcohol_content": "5.0%",
+      "availability": "Year-round",
+      "description": "A crisp and clean Kolsch with a delicate malt sweetness and subtle hop aroma."
+    },
+    {
+      "id": 4,
+      "name": "Golden Valley Blonde",
+      "brewery_id": 4,
+      "type": "Blonde Ale",
+      "alcohol_content": "4.8%",
+      "availability": "Year-round",
+      "description": "A smooth and approachable blonde ale with hints of honey and light floral hops."
+    },
+    {
+      "id": 5,
+      "name": "Hops & Dreams Double IPA",
+      "brewery_id": 5,
+      "type": "Double IPA",
+      "alcohol_content": "8.0%",
+      "availability": "Limited Release",
+      "description": "An intensely hopped double IPA with bold tropical fruit flavors and a strong malt backbone."
+    },
+    {
+      "id": 6,
+      "name": "Crafty's Amber Ale",
+      "brewery_id": 6,
+      "type": "Amber Ale",
+      "alcohol_content": "5.5%",
+      "availability": "Year-round",
+      "description": "A balanced amber ale with caramel malt sweetness and a touch of earthy hop bitterness."
+    },
+    {
+      "id": 7,
+      "name": "Seaside Gose",
+      "brewery_id": 7,
+      "type": "Gose",
+      "alcohol_content": "4.3%",
+      "availability": "Seasonal",
+      "description": "A tart and refreshing gose brewed with sea salt and coriander, perfect for summer sipping."
+    },
+    {
+      "id": 8,
+      "name": "Stonebridge Imperial Stout",
+      "brewery_id": 8,
+      "type": "Imperial Stout",
+      "alcohol_content": "9.0%",
+      "availability": "Limited Release",
+      "description": "A bold and complex imperial stout with flavors of dark fruit, roasted malt, and bourbon barrel aging."
+    },
+    {
+      "id": 9,
+      "name": "Hollow Tree Cider",
+      "brewery_id": 9,
+      "type": "Cider",
+      "alcohol_content": "6.0%",
+      "availability": "Year-round",
+      "description": "A crisp and dry apple cider with just the right amount of sweetness and a refreshing finish."
+    },
+    {
+      "id": 10,
+      "name": "Ironclad Red Ale",
+      "brewery_id": 10,
+      "type": "Red Ale",
+      "alcohol_content": "5.8%",
+      "availability": "Year-round",
+      "description": "A smooth and malty red ale with notes of caramel, toffee, and a light roasted finish."
+    },
+    {
+      "id": 11,
+      "name": "Moonlit Hefeweizen",
+      "brewery_id": 11,
+      "type": "Hefeweizen",
+      "alcohol_content": "5.2%",
+      "availability": "Seasonal",
+      "description": "A refreshing wheat beer with hints of banana and clove, perfect for warm weather."
+    },
+    {
+      "id": 12,
+      "name": "Steel City Imperial IPA",
+      "brewery_id": 12,
+      "type": "Imperial IPA",
+      "alcohol_content": "8.5%",
+      "availability": "Limited Release",
+      "description": "A hop-forward imperial IPA with intense pine, citrus, and resinous hop flavors balanced by a strong malt presence."
+    },
+    {
+      "id": 13,
+      "name": "Canyon River Amber Ale",
+      "brewery_id": 13,
+      "type": "Amber Ale",
+      "alcohol_content": "5.6%",
+      "availability": "Year-round",
+      "description": "A balanced amber ale with a medium body, caramel sweetness, and a smooth finish."
+    },
+    {
+      "id": 14,
+      "name": "Valley Forge Saison",
+      "brewery_id": 14,
+      "type": "Saison",
+      "alcohol_content": "6.0%",
+      "availability": "Seasonal",
+      "description": "A farmhouse-style ale with fruity esters, peppery phenols, and a dry, crisp finish."
+    },
+    {
+      "id": 15,
+      "name": "Summit Barleywine",
+      "brewery_id": 15,
+      "type": "Barleywine",
+      "alcohol_content": "10.5%",
+      "availability": "Limited Release",
+      "description": "A strong and malty barleywine with notes of dried fruit, caramel, and warming alcohol."
+    },
+    {
+      "id": 16,
+      "name": "Sunrise Pale Ale",
+      "brewery_id": 1,
+      "type": "Pale Ale",
+      "alcohol_content": "5.5%",
+      "availability": "Year-round",
+      "description": "A refreshing pale ale with floral hop aromas and a crisp, clean finish."
+    },
+    {
+      "id": 17,
+      "name": "Mountain Peak Porter",
+      "brewery_id": 2,
+      "type": "Porter",
+      "alcohol_content": "6.0%",
+      "availability": "Seasonal",
+      "description": "A smooth and robust porter with notes of chocolate, caramel, and roasted coffee."
+    },
+    {
+      "id": 18,
+      "name": "Riverbend Wheat Beer",
+      "brewery_id": 3,
+      "type": "Wheat Beer",
+      "alcohol_content": "4.8%",
+      "availability": "Year-round",
+      "description": "A light and refreshing wheat beer with a slightly cloudy appearance and hints of citrus."
+    },
+    {
+      "id": 19,
+      "name": "Golden Valley Barleywine",
+      "brewery_id": 4,
+      "type": "Barleywine",
+      "alcohol_content": "9.5%",
+      "availability": "Limited Release",
+      "description": "A strong and malty barleywine with rich caramel and toffee notes balanced by a subtle hop bitterness."
+    },
+    {
+      "id": 20,
+      "name": "Hops & Dreams Session IPA",
+      "brewery_id": 5,
+      "type": "Session IPA",
+      "alcohol_content": "4.2%",
+      "availability": "Year-round",
+      "description": "A low-alcohol IPA that packs a punch with bold hop flavors and a refreshing, light body."
+    },
+    {
+      "id": 21,
+      "name": "Crafty's Brown Ale",
+      "brewery_id": 6,
+      "type": "Brown Ale",
+      "alcohol_content": "5.3%",
+      "availability": "Year-round",
+      "description": "A rich and nutty brown ale with a medium body and smooth malt finish."
+    },
+    {
+      "id": 22,
+      "name": "Seaside Lager",
+      "brewery_id": 7,
+      "type": "Lager",
+      "alcohol_content": "4.8%",
+      "availability": "Year-round",
+      "description": "A crisp and clean lager with a smooth malt backbone and a light hop aroma."
+    },
+    {
+      "id": 23,
+      "name": "Stonebridge Pale Ale",
+      "brewery_id": 8,
+      "type": "Pale Ale",
+      "alcohol_content": "5.6%",
+      "availability": "Year-round",
+      "description": "A well-balanced pale ale with notes of grapefruit and pine, finishing with a light bitterness."
+    },
+    {
+      "id": 24,
+      "name": "Hollow Tree Saison",
+      "brewery_id": 9,
+      "type": "Saison",
+      "alcohol_content": "6.0%",
+      "availability": "Seasonal",
+      "description": "A farmhouse-style ale with fruity esters, peppery phenols, and a dry, crisp finish."
+    },
+    {
+      "id": 25,
+      "name": "Ironclad Porter",
+      "brewery_id": 10,
+      "type": "Porter",
+      "alcohol_content": "6.3%",
+      "availability": "Year-round",
+      "description": "A rich and smooth porter with deep roasted malt flavors and a hint of chocolate."
+    }
+  ]

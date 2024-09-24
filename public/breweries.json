@@ -1,0 +1,149 @@
+[
+    {
+      "brewery_id": "1",
+      "name": "Sunrise Brewing Co.",
+      "location": "123 Brew St, Sunrise City",
+      "contact_email": "info@sunrisebrewing.com",
+      "contact_phone": "555-1234",
+      "hours": "11:00 AM - 10:00 PM",
+      "typesOfBeer": ["IPA", "Lager", "Pale Ale"]
+    },
+    {
+      "brewery_id": "2",
+      "name": "Mountain Peak Brewery",
+      "location": "789 High Rd, Mountain Town",
+      "contact_email": "contact@mountainpeakbrewery.com",
+      "contact_phone": "555-5678",
+      "hours": "12:00 PM - 11:00 PM",
+      "typesOfBeer": ["Stout", "Porter", "Red Ale"]
+    },
+    {
+      "brewery_id": "3",
+      "name": "Riverbend Brewing",
+      "location": "456 Riverbend Ln, Riverside",
+      "contact_email": "hello@riverbendbrew.com",
+      "contact_phone": "555-9876",
+      "hours": "10:00 AM - 9:00 PM",
+      "typesOfBeer": ["Pilsner", "Kolsch", "Wheat Beer"]
+    },
+    {
+      "brewery_id": "4",
+      "name": "Golden Valley Brewery",
+      "location": "101 Valley Rd, Goldtown",
+      "contact_email": "info@goldenvalleybrew.com",
+      "contact_phone": "555-4321",
+      "hours": "1:00 PM - 10:00 PM",
+      "typesOfBeer": ["Blonde Ale", "Saison", "Barleywine"]
+    },
+    {
+      "brewery_id": "5",
+      "name": "Hops & Dreams Brewing",
+      "location": "77 Dreamland Ave, Dream City",
+      "contact_email": "support@hopsanddreams.com",
+      "contact_phone": "555-1111",
+      "hours": "11:00 AM - 10:30 PM",
+      "typesOfBeer": ["IPA", "Double IPA", "Session Ale"],
+      "website": "https://hopsanddreams.com/"
+    },
+    {
+      "brewery_id": "6",
+      "name": "Crafty's Brewery",
+      "location": "67 Artisan Ln, Craft Town",
+      "contact_email": "info@craftysbrewery.com",
+      "contact_phone": "555-2222",
+      "hours": "12:00 PM - 12:00 AM",
+      "typesOfBeer": ["Amber Ale", "Porter", "Brown Ale"],
+      "website": "https://craftysbrewery.com/"
+    },
+    {
+      "brewery_id": "7",
+      "name": "Seaside Brewing Co.",
+      "location": "555 Ocean Ave, Seaside City",
+      "contact_email": "info@seasidebrew.com",
+      "contact_phone": "555-3333",
+      "hours": "10:00 AM - 9:30 PM",
+      "typesOfBeer": ["Pilsner", "Gose", "Lager"],
+      "website": "https://seasidebrewing.com/"
+    },
+    {
+      "brewery_id": "8",
+      "name": "Stonebridge Brewery",
+      "location": "88 Bridge St, Stonebridge",
+      "contact_email": "contact@stonebridgebrew.com",
+      "contact_phone": "555-4444",
+      "hours": "12:00 PM - 11:30 PM",
+      "typesOfBeer": ["Imperial Stout", "Pale Ale", "Hefeweizen"],
+      "website": "https://stonebridgebrewery.com/"
+    },
+    {
+      "brewery_id": "9",
+      "name": "Hollow Tree Brewing",
+      "location": "44 Forest Rd, Hollowtown",
+      "contact_email": "hello@hollowtreebrew.com",
+      "contact_phone": "555-5555",
+      "hours": "11:00 AM - 10:00 PM",
+      "typesOfBeer": ["IPA", "Saison", "Cider"],
+      "website": "https://hollowtreebrewing.com/"
+    },
+    {
+      "brewery_id": "10",
+      "name": "Ironclad Brewery",
+      "location": "10 Ironclad Blvd, Forge City",
+      "contact_email": "info@ironcladbrewery.com",
+      "contact_phone": "555-6666",
+      "hours": "12:00 PM - 11:00 PM",
+      "typesOfBeer": ["Red Ale", "Irish Stout", "Porter"],
+      "website": "https://www.ironcladbrewery.com/"
+    },
+    {
+      "brewery_id": "11",
+      "name": "Moonlit Brewery",
+      "location": "33 Crescent St, Moon City",
+      "contact_email": "support@moonlitbrew.com",
+      "contact_phone": "555-7777",
+      "hours": "11:00 AM - 10:30 PM",
+      "typesOfBeer": ["Wheat Beer", "Hefeweizen", "Blonde Ale"],
+      "website": "https://www.moonlitbrewery.com/"
+
+    },
+    {
+      "brewery_id": "12",
+      "name": "Steel City Brewing Co.",
+      "location": "999 Forge Ln, Steel City",
+      "contact_email": "info@steelcitybrewing.com",
+      "contact_phone": "555-8888",
+      "hours": "1:00 PM - 12:00 AM",
+      "typesOfBeer": ["Pale Ale", "Imperial IPA", "Lager"],
+      "website": "https://steelcitybrewing.com/"
+    },
+    {
+      "brewery_id": "13",
+      "name": "Canyon River Brewing",
+      "location": "111 Canyon Rd, Rivertown",
+      "contact_email": "hello@canyonriverbrew.com",
+      "contact_phone": "555-9999",
+      "hours": "10:00 AM - 9:00 PM",
+      "typesOfBeer": ["Pilsner", "Porter", "Amber Ale"],
+      "website": "https://canyonriverbrewing.com/"
+    },
+    {
+      "brewery_id": "14",
+      "name": "Valley Forge Brewery",
+      "location": "123 Forge Ave, Valley City",
+      "contact_email": "contact@valleyforgebrewery.com",
+      "contact_phone": "555-1010",
+      "hours": "11:00 AM - 11:00 PM",
+      "typesOfBeer": ["Stout", "Blonde Ale", "Saison"],
+      "website": "https://valleyforgebrewery.com/"
+    },
+    {
+      "brewery_id": "15",
+      "name": "Summit Brewing Co.",
+      "location": "90 Summit Hill, Summit City",
+      "contact_email": "info@summitbrew.com",
+      "contact_phone": "555-2020",
+      "hours": "12:00 PM - 12:00 AM",
+      "typesOfBeer": ["IPA", "Barleywine", "Hefeweizen"],
+      "website": "https://summitbrew.com/"
+    }
+  ]
