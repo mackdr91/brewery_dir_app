@@ -8,7 +8,7 @@ import BreweryMap from "@/components/BreweryMap";
 import { deleteEvent } from "@/app/actions/deleteEvent";
 import { getSessionUser } from "@/utils/getSessionUser";
 import BrewDescCard from "@/components/BrewDescCard";
-import Link from "next/link";
+import BreweryImages from "@/components/BreweryImages";
 
 const BreweryPage = async ({ params }) => {
   const session = await getSessionUser();
@@ -49,6 +49,7 @@ const BreweryPage = async ({ params }) => {
           ))}
         </div>
       </section>
+      {/*<BreweryImages images={brewery.images} />*/}
       <section className="w-full h-full mt-10">
         <BreweryMap brewery={brewery} />
       </section>

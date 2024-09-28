@@ -4,13 +4,13 @@ import Brewery from "@/models/Brewery";
 import { revalidatePath } from "next/cache";
 import { redirect, RedirectType } from "next/navigation";
 import { getSessionUser } from "@/utils/getSessionUser";
+import cloudinary from "@/config/cloudinary";
+import { Readable } from 'stream';
 
-
-
-async function updateBrewery(brewreyId, formData) {
+async function updateBrewery(breweryId, formData) {
     await connectdb();
 
-    const existingBrewery = await Brewery.findById(brewreyId);
+    const existingBrewery = await Brewery.findById(breweryId);
     if (!existingBrewery) {
         throw new Error("Brewery not found");
     }
@@ -23,15 +23,16 @@ async function updateBrewery(brewreyId, formData) {
         hours: formData.get('hours'),
         typesOfBeer: formData.getAll("typesOfBeer"),
         website: formData.get('website'),
-        isfeatured: formData.get('isfeatured'),
+        isfeatured: formData.get('isfeatured') === 'true',
         description: formData.get('description'),
+    };
 
-    }
-    breweryData.isfeatured = breweryData.isfeatured === 'true';
-
-    const updatedBrewery = await Brewery.findByIdAndUpdate(brewreyId, breweryData, { new: true });
-    revalidatePath('/breweries','/','layout')
-    redirect(`/breweries/${updatedBrewery._id}`, RedirectType.Permanent)
+    
+    const updatedBrewery = await Brewery.findByIdAndUpdate(breweryId, breweryData, { new: true });
+    revalidatePath('/breweries', '/', 'layout');
+    redirect(`/breweries/${updatedBrewery._id}`, RedirectType.Permanent);
 }
 
-export default updateBrewery
+
+
+export default updateBrewery;

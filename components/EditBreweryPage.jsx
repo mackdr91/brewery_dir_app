@@ -1,10 +1,10 @@
 import updateBrewery from "@/app/actions/updateBrewery";
-
+import Image from "next/image";
 const EditBreweryPage = ({ brewery }) => {
   const updatedBreweryById = updateBrewery.bind(null, brewery._id);
 
   return (
-    <form action={updatedBreweryById}>
+    <form action={updatedBreweryById} encType="multipart/form-data">
       <div className="mb-4">
         <label
           className="block text-gray-700 text-sm font-bold mb-2"
